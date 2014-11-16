@@ -1,13 +1,13 @@
 # Piloting a Roomba with an Arduino #
 
-Watch a (video of what source code is doing here)[https://www.youtube.com/watch?v=7rpqySur7gI].
+Watch a [video of what source code is doing here](https://www.youtube.com/watch?v=7rpqySur7gI).
 
 ## What you need ##
 
 - A roomba with a serial port (mine is the 555 model),
 - An arduino,
 - to build a cable to connect the Arduino to the Roomba, see [theses instructions](http://www.instructables.com/id/Web-controlled-Twittering-Roomba/),
-- download the [Roomba library](http://www.airspayce.com/mikem/arduino/Roomba/) into the Arduino library folder.
+- download that nice [Roomba library](http://www.airspayce.com/mikem/arduino/Roomba/) into the Arduino library folder.
 
 ## Connections ##
 
